@@ -1,4 +1,4 @@
-# modules_gen/promo_generator.py
+
 import uuid
 import time
 import ctypes

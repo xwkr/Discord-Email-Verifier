@@ -1,4 +1,4 @@
-# modules_gen/promo_manager.py
+
 import concurrent.futures
 import logging
 from random import choice
