@@ -40,7 +40,7 @@ if errorlevel 1 (
 )
 
 cls
-"!python!" main.py
+"!python!" gen.py
 
 if errorlevel 1 (
     cls
